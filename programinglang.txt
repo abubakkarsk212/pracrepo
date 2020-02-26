@@ -1,0 +1,7 @@
+Different types of programming language
+
+
+
+1) Java
+2) Python
+3) C
