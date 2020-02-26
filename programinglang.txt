@@ -7,6 +7,11 @@ Different types of programming language
 3) C
 4) C++
 
+5) PHP
+6) JavaScript
+
+Done
+
 
 merge from save branch
 
